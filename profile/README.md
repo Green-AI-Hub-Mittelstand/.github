@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Green-AI Hub</h1>
+  <h1 align="center">Green-AI Hub Mittelstand</h1>
 
   <p align="center">
     <a href="https://www.green-ai-hub.de">
@@ -15,7 +15,7 @@
   </p>
 </div>
 
-Welcome to the Green-AI Hub GitHub organization! This is the central repository for all codebases, tools, and resources developed and maintained by the Green-AI Hub team. Green-AI Hub is dedicated to advancing AI technologies with a focus on sustainability and resource efficiency, especially for small and medium-sized enterprises (SMEs).
+Welcome to the Green-AI Hub Mittelstand GitHub organization! This is the central repository for all codebases, tools, and resources developed and maintained by the Green-AI Hub team. Green-AI Hub is dedicated to advancing AI technologies with a focus on sustainability and resource efficiency, especially for small and medium-sized enterprises (SMEs).
 
 ## About Green-AI Hub
 
