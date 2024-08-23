@@ -15,10 +15,10 @@
   </p>
 </div>
 
-Welcome to the Green-AI Hub Mittelstand GitHub organization! This is the central repository for all codebases, tools, and resources developed and maintained by the Green-AI Hub team. Green-AI Hub is dedicated to advancing AI technologies with a focus on sustainability and resource efficiency, especially for small and medium-sized enterprises (SMEs).
+Welcome to the Green-AI Hub Mittelstand GitHub organization! This is the central repository for all codebases, tools, and resources developed and maintained by the Green-AI Hub team. The Green-AI Hub Mittelstand is dedicated to advancing AI technologies with a focus on sustainability and resource efficiency, especially for small and medium-sized enterprises (SMEs).
 
-## About Green-AI Hub
+## About the Green-AI Hub Mittelstand
 
-Green-AI Hub is an initiative supported by the German Federal Ministry for the Environment, aiming to promote the use of AI for resource efficiency. Our mission is to provide practical, solution-oriented approaches to integrating AI in ways that support sustainable economic growth and environmental protection.
+The Green-AI Hub Mittelstand is an initiative supported by the German Federal Ministry for the Environment, aiming to promote the use of AI for resource efficiency. Our mission is to provide practical, solution-oriented approaches to integrating AI in ways that support sustainable economic growth and environmental protection.
 
 If you need support integrating one of these tools for your own company, feel free to <a href="mailto:info@green-ai-hub.de">reach out to us</a>.
